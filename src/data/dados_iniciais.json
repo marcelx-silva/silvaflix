@@ -1,0 +1,207 @@
+{
+  "categorias": [
+    {
+      "titulo": "K-Pop",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Ouça essa Playlist",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "BLACKPINK - 'How You Like That' M/V",
+          "url": "https://www.youtube.com/watch?v=ioNng23DkIM"
+        },
+        {
+          "titulo": "BLACKPINK - 'How You Like That' M/V",
+          "url": "https://www.youtube.com/watch?v=ioNng23DkIM"
+        },
+        {
+          "titulo": "BTS (방탄소년단) 'ON' Kinetic Manifesto Film : Come Prima",
+          "url": "https://www.youtube.com/watch?v=gwMa6gpoE9I"
+        },
+        {
+          "titulo": "BTS (방탄소년단) - OUTRO: TEAR",
+          "url": "hhttps://www.youtube.com/watch?v=L7hZ8Z9sM38"
+        },
+        {
+          "titulo": "[MV] MOMOLAND (모모랜드) _ BBoom BBoom (뿜뿜)",
+          "url": "https://www.youtube.com/watch?v=JQGRg8XBnB4"
+        },
+        {
+          "titulo": "BLACKPINK - '불장난 (PLAYING WITH FIRE)' M/V",
+          "url": "https://www.youtube.com/watch?v=9pdj4iJD08s"
+        },
+        {
+          "titulo": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV",
+          "url": "https://www.youtube.com/watch?v=kTlv5_Bs8aw"
+        },
+        {
+          "titulo": "BTS RM, SUGA, J-HOPE - DDAENG (땡)",
+          "url": "https://www.youtube.com/watch?v=LbSU1_SG91w"
+        }        
+      ]
+    },
+    {
+      "titulo": "Rock",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Ouça essa Playlist",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Numb (Official Video) - Linkin Park",
+          "url": "https://www.youtube.com/watch?v=kXYiU_JCYtU&list=PLZ1dJqY6KWOXGGeIlZqleztqta23wHMGG"
+        },
+        {
+          "titulo": "Green Day: 'Boulevard Of Broken Dreams' ",
+          "url": "https://www.youtube.com/watch?v=Soa3gO7tL-c&list=PLZ1dJqY6KWOXGGeIlZqleztqta23wHMGG&index=4"
+        },
+        {
+          "titulo": "Red Hot Chili Peppers - Californication",
+          "url": "https://www.youtube.com/watch?v=YlUKcNNmywk"
+        },
+        {
+          "titulo": "Creedence Clearwater Revival - Fortunate Son",
+          "url": "https://www.youtube.com/watch?v=ZWijx_AgPiA"
+        }, 
+        {
+          "titulo": "Queen – Bohemian Rhapsody (Official Video Remastered)",
+          "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+        },
+        {
+          "titulo": "The Rolling Stones - Sympathy For The Devil",
+          "url": "https://www.youtube.com/watch?v=GgnClrx8N2k"
+        },
+        {
+          "titulo": "The Rolling Stones - Paint It, Black",
+          "url": "https://www.youtube.com/watch?v=O4irXQhgMqg"
+        }
+      ]
+    },
+    {
+      "titulo": "Metal",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Ouça essa Playlist",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "OZZY OSBOURNE - 'Crazy Train'",
+          "url": "https://www.youtube.com/watch?v=RMR5zf1J1Hs"
+        },
+        {
+          "titulo": "N.I.B.",
+          "url": "https://www.youtube.com/watch?v=l7yfEcWwink"
+        },
+        {
+          "titulo": "Dance Of Death ",
+          "url": "https://www.youtube.com/watch?v=HfpYbWlGf9k"
+        },
+        {
+          "titulo": "One",
+          "url": "https://www.youtube.com/watch?v=tyBiHyazMOc"
+        },
+        {
+          "titulo": "Killing In the Name",
+          "url": "https://www.youtube.com/watch?v=2o9aoL0NWpw"
+        },
+        {
+          "titulo": "Seek & Destroy",
+          "url": "https://www.youtube.com/watch?v=Wm58sGEdgAw"
+        },
+        {
+          "titulo": "Bathory - The lake ",
+          "url": "https://www.youtube.com/watch?v=yCUx5WKIZ1E"
+        },
+        {
+          "titulo": "Ring of Gold",
+          "url": "https://www.youtube.com/watch?v=VI6elvIoRK0"
+        },
+        {
+          "titulo": "Freezing Moon",
+          "url": "https://www.youtube.com/watch?v=9emO9qo4FwE"
+        },
+        {
+          "titulo": "Metallica: Enter Sandman",
+          "url": "https://www.youtube.com/watch?v=CD-E-LDc384"
+        }
+      ]
+    },
+    {
+      "titulo": "Hip-Hop/Rap/Trap",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Racionais MC's - Jesus Chorou",
+          "url": "https://www.youtube.com/watch?v=ryP3ZvRPJhY"
+        },
+        {
+          "titulo": "Negro Drama",
+          "url": "https://www.youtube.com/watch?v=o50J2xg8-sU"
+        },
+        {
+          "titulo": "Rincon Sapiência - Ponta de Lança ",
+          "url": "https://www.youtube.com/watch?v=vau8mq3KcRw"
+        },
+        {
+          "titulo": "Childish Gambino - This Is America",
+          "url": "https://www.youtube.com/watch?v=VYOjWnS4cMY"
+        },
+        {
+          "titulo": "Kendrick Lamar - HUMBLE.",
+          "url": "https://www.youtube.com/watch?v=tvTRZJ-4EyI"
+        },
+        {
+          "titulo": "J. Cole - MIDDLE CHILD",
+          "url": "https://www.youtube.com/watch?v=WILNIXZr2oc"
+        },
+        {
+          "titulo": "Travis Scott - STARGAZING ",
+          "url": "https://www.youtube.com/watch?v=2a8PgqWrc_4"
+        },
+        {
+          "titulo": "Godzilla (feat. Juice WRLD)",
+          "url": "https://www.youtube.com/watch?v=9XvXF1LrWgA"
+        },
+          {
+            "titulo": "Yung Buda - 7K",
+            "url": "https://www.youtube.com/watch?v=-fKvcGd2zvQ"
+          }
+      ]
+    },
+    {
+      "titulo": "Beats",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Japanese Type Beat 'Shenron'",
+          "url": "https://www.youtube.com/watch?v=TtpTfJ8dWGw"
+        },
+        {
+          "titulo": "ANIME TYPE BEAT  DECADE ",
+          "url": "https://www.youtube.com/watch?v=XcxEmk9pYrk"
+        },
+        {
+          "titulo": " Flashboy - Sharingan",
+          "url": "https://www.youtube.com/watch?v=-WhU5nfpE2Q"
+        },
+        {
+          "titulo": "Madz - Toma Tapão [funk lofi / chillfunk]",
+          "url": "https://www.youtube.com/watch?v=nSVBhrdRUJ8"
+        },
+        {
+          "titulo": "MC INGRYD - ME SATISFAZER",
+          "url": "https://www.youtube.com/watch?v=MWuYqwAARMU"
+        }
+      ]
+    }
+  ]
+}
