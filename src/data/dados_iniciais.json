@@ -6,7 +6,7 @@
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Ouça essa Playlist",
-        "url": ""
+        "url": "#"
       },
       "videos": [
         {
@@ -23,7 +23,7 @@
         },
         {
           "titulo": "BTS (방탄소년단) - OUTRO: TEAR",
-          "url": "hhttps://www.youtube.com/watch?v=L7hZ8Z9sM38"
+          "url": "https://www.youtube.com/watch?v=L7hZ8Z9sM38"
         },
         {
           "titulo": "[MV] MOMOLAND (모모랜드) _ BBoom BBoom (뿜뿜)",
@@ -48,7 +48,7 @@
       "cor": "#00C86F",
       "link_extra": {
         "text": "Ouça essa Playlist",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "url": "#"
       },
       "videos": [
         {
@@ -86,7 +86,7 @@
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Ouça essa Playlist",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "url": "#"
       },
       "videos": [
         {
@@ -177,8 +177,8 @@
       "titulo": "Beats",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Ouça essa Playlist",
+        "url": "#"
       },
       "videos": [
         {
